@@ -2,8 +2,8 @@
 My name is Yeon. I'm an enthusiastic, curious developer and a fast learner.
 
 - ✨ Back-end Developer (Spring).
-- 💁🏻‍♂️ Run-away leaves nothing.
 - 👍 Learning English: OPIc AL, TOEIC 965.
+- 💁🏻‍♂️ Run-away leaves nothing.
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmddusgood)](https://hits.seeyoufarm.com)
