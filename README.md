@@ -2,7 +2,7 @@
 My name is Yeon. I'm an enthusiastic, curious developer and a fast learner.
 
 - ✨ Back-end Developer (Spring).
-- 👍 Learning English: OPIc AL, TOEIC 965.
+- 👍 Learning Languages: Java, Python, OPIc AL, TOEIC 965.
 - 💁🏻‍♂️ Run-away leaves nothing.
 
 <!--
