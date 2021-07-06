@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmddusgood&layout=compact)](https://github.com/tmddusgood)
 -->
 
-(이런 사람입니다)[https://velog.io/@tmddusgood/about]
+[이런 사람입니다](https://velog.io/@tmddusgood/about)
 
 # Education
 * [2020] 광운대학교 컴퓨터소프트웨어학과(주), 생활체육학과(부) 학사 졸업
