@@ -22,14 +22,11 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmddusgood&layout=compact)](https://github.com/tmddusgood)
 -->
 
+(이런 사람입니다)[https://velog.io/@tmddusgood/about]
+
 # Education
 * [2020] 광운대학교 컴퓨터소프트웨어학과(주), 생활체육학과(부) 학사 졸업
-* [2019] SKT 광운대학교대학원 산학협력인공지능 작품전시회 최우수상
-* [2019] 서울캠퍼스타운 SW창업경진대회 최우수상
-* [2019] 광운대학교 SW능력우수장학생
-* [2018] 과학기술정보통신부 SW중심대학사업 미주 동계인턴십 선발
-* [2018] 광운대학교 SW경진대회 우수상
-* [2018] 광운대학교 소프트웨어융합대학 공학설계입문 최우수상
+* [2019] 광운대학교 SW
 
 # Etc
 * OPIC AL 2020.11 
