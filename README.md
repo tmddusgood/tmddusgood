@@ -1,5 +1,5 @@
 # Hi there 😁
-My name is Yeon. I'm a fast & enthusiastic learner.
+My name is Yeon. I'm an enthusiastic, curious developer and a fast learner.
 
 - ✨ Back-end Developer (Spring).
 - 💁🏻‍♂️ Run-away leaves nothing.
