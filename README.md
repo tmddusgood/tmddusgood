@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmddusgood&layout=compact)](https://github.com/tmddusgood)
 -->
+## 백엔드 개발자 강승연입니다.
 
 # Education
 * [2020] 광운대학교 컴퓨터소프트웨어학과(주), 생활체육학과(부) 학사 졸업
