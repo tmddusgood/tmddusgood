@@ -1,3 +1,9 @@
+# Hi there 😁
+My name is Yeon. I'm a Back-end Spring developer.
+
+📱   Back-end Spring Developer
+🚀   Run-away leaves nothing.
+
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmddusgood)](https://hits.seeyoufarm.com)
 **tmddusgood/tmddusgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +21,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmddusgood&layout=compact)](https://github.com/tmddusgood)
 -->
-# Back-end Techs
-* SpringBoot/Gradle 환경, AWS RDS 연동
-* Travis CI 배포 자동화 및 무중단 배포 적용
-* REST API 구현
-* Swagger UI 문서 활용
-* Spring Security, Data JPA 활용
-* AWS Elastic Load Balancing 적용
 
 # Education
 * [2020] 광운대학교 컴퓨터소프트웨어학과(주), 생활체육학과(부) 학사 졸업
