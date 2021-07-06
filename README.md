@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmddusgood&layout=compact)](https://github.com/tmddusgood)
 -->
-# Tech Biography
-* SpringBoot/Gradle 환경, AWS RDS 연동
-* Travis CI 배포 자동화 및 무중단 배포 적용
-* REST API 구현
-* Swagger UI 문서 활용
-* Spring Security, Data JPA 활용
-* AWS Elastic Load Balancing 적용
-
 # Education
 * [2020] 광운대학교 컴퓨터소프트웨어학과(주), 생활체육학과(부) 학사 졸업
 * [2019] SKT 광운대학교대학원 산학협력인공지능 작품전시회 최우수상
