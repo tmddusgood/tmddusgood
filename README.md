@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmddusgood&layout=compact)](https://github.com/tmddusgood)
 -->
-# Works & Projects
+# Tech Biography
 * SpringBoot/Gradle 환경, AWS RDS 연동
 * Travis CI 배포 자동화 및 무중단 배포 적용
 * REST API 구현
