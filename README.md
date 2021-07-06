@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 * [What kind of life have I lived?](https://velog.io/@tmddusgood/series/%EC%96%B4%EB%96%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)
 * [What projects have I done?](https://velog.io/@tmddusgood/series/%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%B4%EC%99%94%EB%82%98)
 * [What projects am I on?](https://velog.io/@tmddusgood/series/%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%ED%95%98%EA%B3%A0-%EC%9E%88%EB%82%98)
-* [What problems am I facing?](https://velog.io/@tmddusgood/series/%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%AC%B8%EC%A0%9C%EC%83%81%ED%99%A9%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%96%88%EB%82%98)
+* [What problems do my projects have?](https://velog.io/@tmddusgood/series/%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%AC%B8%EC%A0%9C%EC%83%81%ED%99%A9%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%96%88%EB%82%98)
 * [What kind of developer do I aim for?](https://velog.io/@tmddusgood/series/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8A%94-%EC%96%B4%EB%95%8C%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80)
 
 
