@@ -1,7 +1,7 @@
 # Hi there 😁
 My name is Yeon. I'm a Back-end Spring developer.
 
-- 📱   Back-end Spring Developer
+- 📱   Back-end Developer (Spring).
 - 🚀   Run-away leaves nothing.
 
 <!--
