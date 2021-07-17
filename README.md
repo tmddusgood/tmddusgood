@@ -1,5 +1,5 @@
 # Hi there 😁
-My name is Yeon. I'm an enthusiastic, curious developer and a fast learner. 
+My name is Yeon. I'm an enthusiastic, curious student developer and a fast learner. 
 
 - ✨ Back-end Developer, very much interested in handling high traffics with Spring.
 - 👍 Learning: Algorithms, Design Patterns, Spring Framework, English(OPIc AL, TOEIC 965).
