@@ -1,4 +1,4 @@
-## Web Beckend Developer - 강승연 | Yeon
+
 Steady Effort with Passion and Curiousity.
 - 🤔 [Tech Blog](https://tmddusgood.notion.site/Steady-Yeon-4fb90e8c34a04fa18cf45a1415e15117)
 - 👍 [CV](https://tmddusgood.notion.site/Yeon-423518b21d6542a783a466ed28712ef1)
