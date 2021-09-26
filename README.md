@@ -1,9 +1,7 @@
-# Hi there 😁
-My name is Yeon. I'm an enthusiastic, curious student developer and a fast learner. 
-
-- ✨ Back-end Developer, very much interested in handling high traffics with Spring.
-- 👍 Learning: Algorithms, Design Patterns, Spring Framework, English(OPIc AL, TOEIC 965).
-- 💁🏻‍♂️ Run-away leaves nothing.
+## Web Beckend Developer - 강승연 | Yeon
+Steady Effort with Passion and Curiousity.
+- 🤔 [Tech Blog](https://tmddusgood.notion.site/Steady-Yeon-4fb90e8c34a04fa18cf45a1415e15117)
+- 👍 [CV](https://tmddusgood.notion.site/Yeon-s-Navigation-Log-4fb90e8c34a04fa18cf45a1415e15117)
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmddusgood)](https://hits.seeyoufarm.com)
