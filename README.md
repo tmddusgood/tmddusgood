@@ -1,9 +1,9 @@
 
 Steady Effort with Passion and Curiousity.
+<!--
 - 🤔 [Tech Blog](https://tmddusgood.notion.site/Steady-Yeon-4fb90e8c34a04fa18cf45a1415e15117)
 - 👍 [CV](https://tmddusgood.notion.site/Yeon-423518b21d6542a783a466ed28712ef1)
 
-<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmddusgood)](https://hits.seeyoufarm.com)
 **tmddusgood/tmddusgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
