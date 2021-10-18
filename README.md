@@ -1,5 +1,18 @@
+#### Web Back-End 개발자 강승연입니다.
+* 꾸준하게
+* 호기심
+* 열정
 
-Steady Effort with Passion and Curiousity.
+🤔 *[**Profile** Notion Link](https://tmddusgood.notion.site/Seungyeon-Kang-Yeon-423518b21d6542a783a466ed28712ef1)* </br>
+🤔 *[**Tech Log** Github Link](https://github.com/tmddusgood/Documents)*
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tmddusgood&show_icons=true&hide=issues&count_private=true&theme=vue" height="165"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmddusgood&layout=compact&hide=SCSS" />
+</a>
+
 <!--
 - 🤔 [Tech Blog](https://tmddusgood.notion.site/Steady-Yeon-4fb90e8c34a04fa18cf45a1415e15117)
 - 👍 [CV](https://tmddusgood.notion.site/Yeon-423518b21d6542a783a466ed28712ef1)
